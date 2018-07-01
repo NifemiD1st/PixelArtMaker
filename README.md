@@ -13,6 +13,8 @@ The initial HTML and CSS codes were provided by Udacity. Javascript codes for th
 written by FAPOJUWO-ONI TEMIDAYO EMMANUEL. 
 
 
+# New Feature 
+I added a new feature to my project, the new feature allows the user to clear the color in a particular cell when clicked by clicking on the particular cell again. This will be used when the user wants to clear the old color in a particular cell should the user make mistakes while painting on the grid.
 
 # Experience 
 I have acquired a lot of experience during my ALCwithGoogle scholarship on Udacity and more during the collaboration on slack with my co-learners. I only didn't acquire relevant knowledge to be a world class developer but I was also given the opportunity to collaborate, teach, correct, fix bugs of my other colleagues accross Africa and at the same time receive corrections and learn from them along the journey. Not only have I learn't relevant basics of HTML, CSS and Javascript but I also have learnt how to manipulate the DOM with Javascript and jQuery and I also have the feeling that I can now build an interactive web page.
