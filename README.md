@@ -37,5 +37,5 @@ I'd really like to appreciate Google, ALC and Udacity for endowing me this one t
 
 Please follow this link to visit the github page for the pixel art maker.
 
-View project : https://NifemiD1st.github.io/PixelMakerArt/
+View project : https://NifemiD1st.github.io/PixelArtMaker/
 
