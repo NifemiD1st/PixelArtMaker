@@ -39,3 +39,9 @@ $('td').click(function (event){
     };
   });
 }
+
+//resets the canvas to empty	
+$('#reset').on('click',function resetGrid() {		
+	$('table tr').remove();
+   });
+});
