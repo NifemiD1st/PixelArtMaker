@@ -13,6 +13,9 @@ The initial HTML and CSS codes were provided by Udacity. Javascript codes for th
 written by FAPOJUWO-ONI TEMIDAYO EMMANUEL. 
 
 
+# Modifications 
+I modified Udacity's HTML and CSS codes to achieve a desired result in the User Interface(UI) of my project to create a better User Experience (UX) for the User. 
+
 # New Feature 
 I added a new feature to my project, the new feature allows the user to clear the color in a particular cell when clicked by clicking on the particular cell again. This will be used when the user wants to clear the old color in a particular cell should the user make mistakes while painting on the grid.
 
