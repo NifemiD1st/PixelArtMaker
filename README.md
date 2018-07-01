@@ -13,7 +13,7 @@ Team: fe-team-292.
 
 Email : fapojuwoonit@gmail.com.
 
-Slack Handle: @NifemiD1st
+Slack Handle: Nifemi(fe-team-292)
 
 This project allows user to create a grid of squares representing their design, 
 and apply colors to those squares to create a digital artwork.
