@@ -1,10 +1,13 @@
-
 # PixelMakerArt
 Google's Udacity with ALC's seven(7) days of code challenge on ALC 3.0. front-End Track.
 
-Project Files Edited by: Fapojuwo-Oni Temidayo Emmanuel. Track: Front-End Web Beginner. 
-Country: Nigeria. Group: fe-group-59. Team: fe-team-292.
+Project Files Edited by: Fapojuwo-Oni Temidayo Emmanuel. 
+Track: Front-End Web Beginner. 
+Country: Nigeria. 
+Group: fe-group-59. 
+Team: fe-team-292.
 Email : fapojuwoonit@gmail.com.
+Slack Handle: @NifemiD1st
 
 This project allows user to create a grid of squares representing their design, 
 and apply colors to those squares to create a digital artwork.
