@@ -39,4 +39,3 @@ $('td').click(function (event){
     };
   });
 }
-
