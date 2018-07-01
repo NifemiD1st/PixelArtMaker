@@ -1,5 +1,3 @@
-[PixelMakerArt](/#PixelMakerArt/)
-
 # PixelMakerArt
 Google's Udacity with ALC's seven(7) days of code challenge on ALC 3.0. front-End Track.
 
